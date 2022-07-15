@@ -1,6 +1,7 @@
 
 <h1><a title="Dovgal Dima" href="https://dmitriy-1986.github.io/old-my-site/">Dovgal Dima</a> </h1>  <h4> tel: +380981180209<br> mailto: dovgal.dima.86@gmail.com</h4>   <br>
 https://dmitriy-1986.github.io/old-my-site/
+<br>
 <address>
 <a title="Facebook" href="https://www.facebook.com/profile.php?id=100026817609832">Facebook</a> |
 <a title="Twitter" href="https://twitter.com/siEcDal41krrZOe">Twitter</a> |
